@@ -47,6 +47,7 @@ GoFinances is a transaction management application.
 
 ## 🛠 Technologies
 - **[React.js](https://reactjs.org/)**
+- **[TypeScript](https://www.typescriptlang.org/)**
 - *[React Router DOM](https://reacttraining.com/react-router/web/guides/quick-start)*
 - *[Styled-Components](https://styled-components.com/)*
 - *[React Icons](https://react-icons.netlify.com/#/)*
