@@ -19,7 +19,7 @@
 
   <img alt="GitHub repo size in bytes" src="https://img.shields.io/github/repo-size/rbritox/gostack-gofinances-frontend">
 
-  <img alt="Code quality" src="https://api.codacy.com/project/badge/Grade/6bb8593253154d30b91897fabc1ba4d8">
+  <img alt="Code quality" src="https://app.codacy.com/project/badge/Grade/c86e1c4291824dc78ebfb9cdf9ed50e7">
 
   <img alt="Made by Rocketseat" src="https://img.shields.io/github/license/rbritox/GoStack-Github-Explorer">
 
