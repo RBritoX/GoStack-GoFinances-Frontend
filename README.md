@@ -2,6 +2,14 @@
     <img alt="GoStack" src="./src/assets/logo.svg" width="500px" />
 </h1>
 
+<h3 align="center">
+  GoFinances
+</h3>
+
+<blockquote align="center">
+  “Don't expect brilliant results if your goals are unclear”!
+</blockquote>
+
 <br>
 
 <p align="center">
